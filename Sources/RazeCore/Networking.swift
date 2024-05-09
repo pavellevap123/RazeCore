@@ -7,6 +7,8 @@
 
 import Foundation
 
-public struct RazeCore {
-    
+extension RazeCore {
+    public class Networking {
+        
+    }
 }
