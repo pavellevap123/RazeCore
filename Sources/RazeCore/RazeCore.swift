@@ -28,4 +28,9 @@ public class RazeCore {
     public static var razeColor: UIColor {
         return self.colorFromHexString("006736")
     }
+    
+    /// Returns an object of `UIColor`
+    public static var secondaryRazeColor: UIColor {
+        return self.colorFromHexString("FCFFFD")
+    }
 }
